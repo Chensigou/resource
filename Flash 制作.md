@@ -3,13 +3,16 @@
 
 ### 需要安装的软件
 1. Adobe_FlashProfessional_CS6 (路径：install file/Adobe_FlashProfessional_CS6)
-2. [脚本下载地址可以在官网搜索](https://github.com/Chensigou/pure2d)
+2. [脚本下载地址可以在官网搜索](https://github.com/gree/lwfs/releases)
 
 ### 批处理文件
 1. Publish for LWF.jsfl
 
 ### 前置条件
-1. 动画资源，设计给出fla文件
+1. 动画资源，设计给出fla文件，制作方法参考：
+    
+    <img src="https://github.com/Chensigou/resource/blob/master/flash_made_lwf.png?raw=true" width="540" />
+
 2. LWFS生成相关（必须放在桌面）
     
     - LWFS(路径：script file\LWF)，将该文件夹复制到桌面
